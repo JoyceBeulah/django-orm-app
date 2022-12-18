@@ -38,7 +38,8 @@ class FlightbookingAdmin(admin.ModelAdmin):
 
 ## OUTPUT
 
- file:///home/sec/Documents/django-orm-app-1/images/djangoapp2.png
+![djangoapp2](https://user-images.githubusercontent.com/118343698/208288506-8d99ac8a-7ee3-46e5-b087-1887813d58fb.png)
+
 
 ## RESULT
 hence we developed a Django application to store and retrieve data from a database using Object Relational Mapping(ORM).
